@@ -1,7 +1,8 @@
 # Documentos Publicos de IslaDrive
 
 
-AVISO DE PRIVACIDAD INTEGRAL – ISLADRIVE
+# AVISO DE PRIVACIDAD INTEGRAL – ISLADRIVE
+
 Última actualización: Junio 2026
 En IslaDrive (en adelante, "la Aplicación"), con domicilio en San Miguel de Cozumel, Quintana Roo, México, en nuestra calidad de responsable del tratamiento de los datos personales que proporciones, nos tomamos muy en serio la seguridad y la privacidad de tus datos. Por ello, y en estricto cumplimiento con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP) vigentes en México, ponemos a tu disposición el presente Aviso de Privacidad para informarte sobre el tratamiento, uso y resguardo de tu información.
 1. Información que Recabamos
